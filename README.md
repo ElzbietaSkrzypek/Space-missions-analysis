@@ -24,4 +24,4 @@ Used libraries:
   datetime
 
 
-## To see all figures launch data here: https://nbviewer.org/github/ElzbietaSkrzypek/Space-missions-analysis/blob/41e3c29f83c383e334b22f213cdfb7a5617329c1/Space_Missions_Analysis_new.ipynb
+### To see all figures launch data here: https://nbviewer.org/github/ElzbietaSkrzypek/Space-missions-analysis/blob/41e3c29f83c383e334b22f213cdfb7a5617329c1/Space_Missions_Analysis_new.ipynb
