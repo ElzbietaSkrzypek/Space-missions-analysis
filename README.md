@@ -1,6 +1,6 @@
 # Space-missions-analysis
 
-To see all figures launch data here: https://nbviewer.org/github/ElzbietaSkrzypek/Space-missions-analysis/blob/41e3c29f83c383e334b22f213cdfb7a5617329c1/Space_Missions_Analysis_new.ipynb
+To see all figures launch data here: https://nbviewer.org/github/ElzbietaSkrzypek/Space-missions-analysis/blob/5e98e1e9de985da2a3b2ebf2c17d3e0c17fa984d/Space_Missions_Analysis_new.ipynb
 
 ### Using space mission data from 1957 onwards to analyse and visualise trends over time.
 
@@ -24,4 +24,4 @@ Used libraries:
   datetime
 
 
-### To see all figures launch data here: https://nbviewer.org/github/ElzbietaSkrzypek/Space-missions-analysis/blob/41e3c29f83c383e334b22f213cdfb7a5617329c1/Space_Missions_Analysis_new.ipynb
+### To see all figures launch data here: https://nbviewer.org/github/ElzbietaSkrzypek/Space-missions-analysis/blob/5e98e1e9de985da2a3b2ebf2c17d3e0c17fa984d/Space_Missions_Analysis_new.ipynb
