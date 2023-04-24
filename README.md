@@ -13,7 +13,7 @@ Have space missions gotten safer or has the chance of failure remained unchanged
 
 Using it I have created various types of charts and visualisations, from choropleths to sunburst charts to segmented bar charts and see if you can turn data into insight.
 
-Used libraries: 
+### Used libraries: 
   numpy, 
   pandas, 
   plotly.express, 
